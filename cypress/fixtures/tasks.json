@@ -1,0 +1,21 @@
+{
+    "cad": {
+        "name":"Ler um livro de javascript",
+        "is_done": false
+    },
+
+    "dup": {
+        "name":"Ler um livro de Node.js",
+        "is_done": false
+    },
+
+    "conc": {
+        "name":"Comprar ketchup",
+        "is_done": false
+    },
+
+    "remove": {
+        "name":"Estudar Javascript",
+        "is_done": false
+    }
+}
